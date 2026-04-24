@@ -84,7 +84,3 @@ The dashboard helps stakeholders make data-driven decisions by tracking key busi
 3. Explore filters and visuals
 
 ---
-
-## 👤 Author
-Your Name  
-Aspiring Data Analyst | Power BI | SQL | Excel
